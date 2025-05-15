@@ -1,6 +1,6 @@
 this is test message to check pull command
 1 hi is automation testing
-Hi I am  automation tester
+
 2
 3
 4
